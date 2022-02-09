@@ -1,4 +1,7 @@
-#hola mundo
+HOLA MUNDO
+
 Mi primer repositorio.
-Autor: Adrian M.
-fecha  07 de febrero
+
+fecha 07 de febrero.
+
+Autor  Adrian Mtz.
